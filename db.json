@@ -3,6 +3,34 @@
     {
       "id": 0,
       "recruit": "Bill the Archer"
+    },
+    {
+      "recruit": {
+        "dispatchConfig": null,
+        "_targetInst": null,
+        "isDefaultPrevented": null,
+        "isPropagationStopped": null,
+        "_dispatchListeners": null,
+        "_dispatchInstances": null,
+        "nativeEvent": null,
+        "type": null,
+        "target": null,
+        "eventPhase": null,
+        "bubbles": null,
+        "cancelable": null,
+        "defaultPrevented": null,
+        "isTrusted": null,
+        "screenX": null,
+        "screenY": null,
+        "clientX": null,
+        "clientY": null,
+        "ctrlKey": null,
+        "shiftKey": null,
+        "altKey": null,
+        "metaKey": null,
+        "buttons": null
+      },
+      "id": 1
     }
   ],
   "undead": [
